@@ -1,0 +1,46 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 40
+names:
+  - 4box
+  - Axe
+  - Gun
+  - Knife
+  - Masked people
+  - ambulance
+  - backpack
+  - bike
+  - bottle
+  - bus
+  - canter
+  - car
+  - cycle
+  - diy bottle
+  - empty
+  - filled
+  - fire extinguisher
+  - fire statio vehicle
+  - gas cylinder
+  - grenade
+  - gunny bag bulk
+  - home
+  - jute
+  - kid bottle
+  - kids
+  - land mines
+  - mini
+  - packed
+  - passport
+  - police car
+  - racing car
+  - school bus
+  - smart phone
+  - steel bottle
+  - stylishbottle
+  - trolley bag
+  - truck
+  - unmasked
+  - unmasked exprn
+  - unmasked2
